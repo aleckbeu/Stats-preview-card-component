@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub URL: https://github.com/alejandroariasag/Stats-preview-card-component
-- Live Site URL: https://alejandroariasag.github.io/Stats-preview-card-component/
+- GitHub URL: https://github.com/aleckbeu/Stats-preview-card-component
+- Live Site URL: https://aleckbeu.github.io/Stats-preview-card-component/
 
 ## My process
 
@@ -39,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [The Quiff Republic](https://www.thequiffrepublic.com)
+- Website - [Aleckbeu](https://www.aleckbeu.com)

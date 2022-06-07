@@ -20,7 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/alejandroariasag/Stats-preview-card-component/blob/gh-pages/design/desktop-preview.jpg?raw=true)
+![Screenshot](hhttps://github.com/aleckbeu/Stats-preview-card-component/raw/gh-pages/images/2022-06-07-20-30-aleckbeu.github.io.png)
+
 
 ### Links
 

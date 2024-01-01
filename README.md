@@ -20,13 +20,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/aleckbeu/Stats-preview-card-component/raw/gh-pages/images/2022-06-07-20-30-aleckbeu.github.io.png)
+![Screenshot](https://github.com/swckd/Stats-preview-card-component/raw/gh-pages/images/2022-06-07-20-30-swckd.github.io.png)
 
 
 ### Links
 
-- GitHub URL: https://github.com/aleckbeu/Stats-preview-card-component
-- Live Site URL: https://aleckbeu.github.io/Stats-preview-card-component/
+- GitHub URL: https://github.com/swckd/Stats-preview-card-component
+- Live Site URL: https://swckd.github.io/Stats-preview-card-component/
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aleckbeu](https://www.aleckbeu.com)
+- Website -
